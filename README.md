@@ -1,7 +1,3 @@
-Sure! Here is a detailed README documentation for the KaryaShaala web portal:
-
----
-
 # KaryaShaala
 
 KaryaShaala is a web portal designed using React, Bootstrap, and NodeJS that provides details of upcoming academic activities such as conferences, seminars, educational sessions, and other tech or academic events conducted in different colleges. Students can check all these activities, and organizers can register their events.
